@@ -12,5 +12,3 @@
 
 - Utiliser la commande docker compose up ou docker compose up -d (pour lancer en arrière plan)
 - Observer que le projet fonctionne en saisissant http://localhost:8088 dans le navigateur
-
--
